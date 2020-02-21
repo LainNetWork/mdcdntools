@@ -1,5 +1,5 @@
 package common
 
 type ArgsConfig struct {
-	refer,path string
-} 
+	refer, path string
+}

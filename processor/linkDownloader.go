@@ -1,6 +1,7 @@
 package processor
 
-import ""
-func DownloadImgToLocal()  {
+import "github.com/LainNetWork/mdcdntools/common"
+
+func DownloadImgToLocal() {
 
 }

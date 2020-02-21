@@ -5,6 +5,7 @@ import (
 	"fmt"
 )
 import (
+	_ "github.com/LainNetWork/mdcdntools/common"
 	_ "github.com/microcosm-cc/bluemonday"
 	_ "github.com/russross/blackfriday/v2"
 )
