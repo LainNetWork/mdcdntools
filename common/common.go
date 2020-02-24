@@ -1,5 +1,8 @@
 package common
 
+//全局配置
 type ArgsConfig struct {
-	refer, path string
+	Refer, Path string
 }
+
+var Config = new(ArgsConfig)
